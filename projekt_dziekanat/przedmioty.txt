@@ -1,0 +1,10 @@
+12 matematyka dyskretna
+8 programowanie obiektowe
+9 fizyka
+6 angielski
+20 wstep do automatyki
+16 grafika komputerowa
+4 filozofia
+2 wychowanie fizyczne
+14 analiza matematyczna
+4 wstep do kryptologi

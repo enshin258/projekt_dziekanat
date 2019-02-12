@@ -1,0 +1,23 @@
+﻿  projekt_dziekanat.cpp
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat.cpp(345): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat.cpp(349): warning C4244: "argument": konwersja z "int" do "typ2", możliwa utrata danych
+          with
+          [
+              typ2=float
+          ]
+c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat.cpp(64): warning C4244: "return": konwersja z "typ1" do "typ2", możliwa utrata danych
+          with
+          [
+              typ1=float
+          ]
+          and
+          [
+              typ2=int
+          ]
+  c:\users\kubaw\desktop\wat\programowanie obiektowe\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat\projekt_dziekanat.cpp(347): note: zobacz odwołanie do funkcji szablon; wystąpienie „typ2 przetarg<float,int>(typ1,typ2)” jest kompilowane
+          with
+          [
+              typ2=int,
+              typ1=float
+          ]
+  projekt_dziekanat.vcxproj -> C:\Users\kubaw\Desktop\WAT\Programowanie Obiektowe\projekt_dziekanat\projekt_dziekanat\x64\Debug\projekt_dziekanat.exe
